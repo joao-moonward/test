@@ -1,5 +1,5 @@
 {
-  "name": "@joaovitorteixeira/decorators",
+  "name": "@joaovitorteixeira/decorator-library",
   "types": "dist/index.d.ts",
   "version": "1.0.0",
   "main": "dist/index.js",
