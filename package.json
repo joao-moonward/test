@@ -1,5 +1,5 @@
 {
-  "name": "@joaovitorteixeira/decorator-library",
+  "name": "@joaomoon/decorator-library",
   "types": "dist/index.d.ts",
   "version": "1.0.0",
   "main": "dist/index.js",
@@ -13,7 +13,7 @@
     "class-validator": "^0.13.2"
   },
   "publishConfig": {
-    "joaovitorteixeira:registry": "https://npm.pkg.github.com"
+    "joaomoon:registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "build": "tsc"
